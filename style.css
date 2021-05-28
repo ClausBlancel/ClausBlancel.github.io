@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    margin: 0;
+}
+
+.elem {
+    background-color: #ffcc40;
+    text-align: center;
+    height: 300px;
+}
